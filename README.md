@@ -1,6 +1,6 @@
 # Multiple Logistic Regression for Predicting Social Media Usage
 
-This project was created for the completion of university honors credit. Using data from the [2021 Core Trends Survey](https://www.pewresearch.org/dataset/2021-core-trends-survey/?loggedIn=true), the goal
+This project was created for the completion of university honors credit. Using data from the [2021 Core Trends Survey]((https://www.pewresearch.org/dataset/2021-core-trends-survey/?loggedIn=true)), the goal
 was to use logisitc regression to predict the social media usage of an individual given their characterisitcs.
 
 ---
