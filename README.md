@@ -14,7 +14,7 @@ was to use logisitc regression to predict the social media usage of an individua
 ---
 
 ## How it works
-- The program is essential 11 seperate logistic regression models running at the same time. Using data from about 1350 individuals, the program performs gradient descent
+- The program is 11 seperate logistic regression models running at the same time. Using data from about 1350 individuals, the program performs gradient descent
 - to minmize prediction error for each social media. To test the model, the predictions of 150 extra individuals are evaluated against their actual survey results.
 - Note: a small percentage of survey answers are unnacounted for in the model. For example, if an individual answered "Don't know (9)" to a question that takes an answer between 1 and 3.
 
