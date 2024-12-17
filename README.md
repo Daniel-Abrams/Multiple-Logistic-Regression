@@ -38,3 +38,16 @@ The program can take about a minute to run. It will likely take longer if you de
 which will be arrays of 0s and 1s. 0 means that a person was predicted not to use a social media, 1 means that they were. There will be 11 arrays displayed(one for each social media). Matching indeces in
 each array correspond to the same person. The terminal will then display the proportion of correct predictions.
 
+## Questions
+
+If you have any questions, feel free to reach out:
+
+- GitHub: [Daniel-Abrams](https://github.com/Daniel-Abrams)
+- Email: danlab1104@gmail.com
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
