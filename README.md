@@ -25,7 +25,7 @@ was to use logisitc regression to predict the social media usage of an individua
    ```
 
 - 2. There are 4 files in the repository:
-     - [Jan 25-Feb 8^J 2021 - Core Trends Survey With Calculated Columns.csv](Jan 25-Feb 8^J 2021 - Core Trends Survey With calculated columns.csv): a csv file containing the data from the survey.
+     - [Jan 25-Feb 8^J 2021 - Core Trends Survey With Calculated Columns.csv]([Jan 25-Feb 8^J 2021 - Core Trends Survey With calculated columns.csv](https://github.com/Daniel-Abrams/Multiple-Logistic-Regression/blob/main/Jan%2025-Feb%208%5EJ%202021%20-%20Core%20Trends%20Survey%20With%20calculated%20columns.csv): a csv file containing the data from the survey.
      - [data.csv](https://github.com/Daniel-Abrams/Multiple-Logistic-Regression/blob/main/data.csv): another csv file containing a fabricated set of data for testing purposes.
      - [data.py](https://github.com/Daniel-Abrams/Multiple-Logistic-Regression/blob/main/data.py): a file for extracting the data and preparing it for use.
      - [LogisitcRegression.py](https://github.com/Daniel-Abrams/Multiple-Logistic-Regression/blob/main/LogisticRegression.py): the file where all the calculations occur
